@@ -1,0 +1,26 @@
+{
+  "anahtar_kelimeler": [
+    "iha", "insansız hava", "pilot", "kpss p94", "kpssp94",
+    "ortaöğretim", "lise mezunu", "bekçi", "infaz ve koruma", "gardiyan",
+    "sözleşmeli personel", "drone", "dron"
+  ],
+  "haric_kelimeler": [
+    "kabin memuru", "sonuçları açıklandı", "ne zaman açıklanacak"
+  ],
+  "kaynaklar": [
+    {"ad": "Google Haber: İHA pilot alımı", "tur": "rss",
+     "url": "https://news.google.com/rss/search?q=%22İHA+pilotu%22+alım+ilanı&hl=tr&gl=TR&ceid=TR:tr"},
+    {"ad": "Google Haber: sözleşmeli pilot KPSS", "tur": "rss",
+     "url": "https://news.google.com/rss/search?q=%22sözleşmeli+pilot%22+alım&hl=tr&gl=TR&ceid=TR:tr"},
+    {"ad": "Google Haber: KPSS P94 alım", "tur": "rss",
+     "url": "https://news.google.com/rss/search?q=%22KPSS+P94%22+personel+alımı&hl=tr&gl=TR&ceid=TR:tr"},
+    {"ad": "Google Haber: MİT personel alımı", "tur": "rss",
+     "url": "https://news.google.com/rss/search?q=MİT+personel+alımı+İHA&hl=tr&gl=TR&ceid=TR:tr"},
+    {"ad": "Google Haber: bekçi / gardiyan alımı", "tur": "rss",
+     "url": "https://news.google.com/rss/search?q=bekçi+OR+gardiyan+alımı+ilanı&hl=tr&gl=TR&ceid=TR:tr"},
+    {"ad": "İşin Olsa: pilot alımı", "tur": "html",
+     "url": "https://www.isinolsa.com/haberleri/pilot-alimi/"},
+    {"ad": "Memurlar.net ilanlar", "tur": "html",
+     "url": "https://ilan.memurlar.net/"}
+  ]
+}
