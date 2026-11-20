@@ -2,8 +2,8 @@ name: Ilan Takip
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # her 3 saatte bir (UTC)
-  workflow_dispatch:         # elle de başlatılabilir
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
