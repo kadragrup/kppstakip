@@ -1,2 +1,2 @@
--e requests
+requests
 beautifulsoup4
